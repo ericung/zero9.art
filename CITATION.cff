@@ -1,0 +1,15 @@
+message: "If you want to cite this article, please cite it as below."
+authors:
+- family-names: "Eric"
+  given-names: "Ung"
+  orcid: "https://orcid.org/0009-0008-6122-4557"
+title: "zero9.art"
+url: "https://github.com/ericung/zero9.art"
+preferred-citation:
+  type: journal
+  url: "https://github.com/ericung/zero9.art"
+  authors:
+  - family-names: "Ung"
+    given-names: "Eric"
+    orcid: "https://orcid.org/0009-0008-6122-4557"
+  title: "zero9.art"
