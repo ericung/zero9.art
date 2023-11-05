@@ -1,0 +1,6 @@
+[submodule "2023/december/Resources/dotfilers"]
+	path = 2023/december/Resources/dotfilers
+	url = https://github.com/OlaoluwaM/dotfilers.git
+[submodule "2023/december/Resources/serverless-run-watch"]
+	path = 2023/december/Resources/serverless-run-watch
+	url = https://github.com/astuyve/serverless-run-watch.git
